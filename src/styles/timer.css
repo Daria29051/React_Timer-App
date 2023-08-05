@@ -1,0 +1,8 @@
+.timer__container {
+    width: 350px;
+    height: 100px;
+    background-color: rgba(128, 128, 128, 0.5);
+    border: 1px solid black;
+    margin: 20px auto;
+    
+}
